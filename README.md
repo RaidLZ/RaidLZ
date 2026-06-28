@@ -3,13 +3,13 @@
   │  Profile README for github.com/RaidLZ                         │
   │  Put this file in a repo named  RaidLZ/RaidLZ  →  README.md   │
   │  It then renders on your profile page automatically.          │
-  │  All images below are LIVE — they re-render with fresh data.  │
+  │  All images below are LIVE · they re-render with fresh data.  │
   └─────────────────────────────────────────────────────────────┘
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0E13,100:C98A1E&text=Raed%20Lazreg&fontColor=F4B740&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20LLM%20%26%20Agentic%20Systems&descAlign=50&descAlignY=60&descSize=18" width="100%" alt="Raed Lazreg — AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0E13,100:C98A1E&text=Raed%20Lazreg&fontColor=F4B740&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20LLM%20%26%20Agentic%20Systems&descAlign=50&descAlignY=60&descSize=18" width="100%" alt="Raed Lazreg · AI Engineer" />
 
 <a href="https://github.com/RaidLZ">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F4B740&center=true&vCenter=true&width=620&lines=I+build+multi-agent+systems+with+LangGraph+%2B+MCP;Real-time+voice+agents+on+LiveKit;RAG+pipelines+that+cut+hallucinations;AI+Engineer+%40+Quicktext+%C2%B7+%F0%9F%A5%87+AI+Night+Challenge" alt="What I build" />
@@ -25,7 +25,7 @@
 
 ---
 
-### `~/whoami`
+### `whoami`
 
 ```python
 class RaedLazreg:
@@ -33,17 +33,17 @@ class RaedLazreg:
     focus       = ["multi-agent systems", "real-time voice agents", "RAG"]
     stack       = ["LangGraph", "MCP", "LiveKit", "FastAPI", "Python"]
     shipping    = "agents that take live calls & book reservations via tool calls"
-    achievement = "🥇 1st place — AI Night Challenge (ARSII)"
+    achievement = "🥇 1st place, AI Night Challenge (ARSII)"
     studying    = "AI Engineering @ École Polytechnique de Sousse ('26)"
     languages   = ["EN", "FR (B2)", "DE (B1)"]
 ```
 
-I take LLMs from prototype to **production, customer-facing deployments** — designing the agent
+I take LLMs from prototype to **production, customer-facing deployments**, designing the agent
 orchestration, the tool-calling, and the RAG that keeps them accurate.
 
 ---
 
-### `~/toolkit`
+### `toolkit`
 
 **Agentic &amp; LLM**
 
@@ -73,11 +73,11 @@ orchestration, the tool-calling, and the RAG that keeps them accurate.
 
 ---
 
-### `~/featured`
+### `featured`
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🥇 **Ceramic Tile Defect Detection** | 1st place @ AI Night Challenge — real-time CV defect detection | `OpenCV` `YOLO` `Python` |
+| 🥇 **Ceramic Tile Defect Detection** | 1st place @ AI Night Challenge, real-time CV defect detection | `OpenCV` `YOLO` `Python` |
 | 🎙️ **Ultravox Voice Reservation Agent** | Speech-to-speech hospitality agent that books over live audio | `Ultravox SLM` `WebSockets` `FastAPI` |
 | 💬 **Chatbot UI Widget** | Reusable conversational UI, published to NPM | `React.js` `HTML` `CSS` |
 | 🦀 [**microGPT**](https://github.com/RaidLZ/microGPT) | A minimal GPT built from scratch in Rust | `Rust` `Transformers` |
@@ -85,7 +85,7 @@ orchestration, the tool-calling, and the RAG that keeps them accurate.
 
 ---
 
-### `~/stats`
+### `stats`
 
 <div align="center">
 
@@ -98,7 +98,7 @@ orchestration, the tool-calling, and the RAG that keeps them accurate.
 
 ---
 
-### `~/connect`
+### `connect`
 
 <div align="center">
 
@@ -109,7 +109,7 @@ orchestration, the tool-calling, and the RAG that keeps them accurate.
 </div>
 
 <!--
-  OPTIONAL — contribution snake. Uncomment AFTER the snake.yml Action has run once.
+  OPTIONAL · contribution snake. Uncomment AFTER the snake.yml Action has run once.
   <div align="center">
     <img src="https://raw.githubusercontent.com/RaidLZ/RaidLZ/output/snake-dark.svg" alt="snake eating my contributions" />
   </div>
