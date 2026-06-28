@@ -103,7 +103,7 @@ orchestration, the tool-calling, and the RAG that keeps them accurate.
 <div align="center">
 
 <a href="https://raidlz.github.io"><img src="https://img.shields.io/badge/Portfolio-0B0E13?style=for-the-badge&logo=githubpages&logoColor=F4B740&labelColor=0B0E13" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/raed-lazreg"><img src="https://img.shields.io/badge/LinkedIn-0B0E13?style=for-the-badge&logo=linkedin&logoColor=F4B740&labelColor=0B0E13" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/raidlazreg"><img src="https://img.shields.io/badge/LinkedIn-0B0E13?style=for-the-badge&logo=linkedin&logoColor=F4B740&labelColor=0B0E13" alt="LinkedIn" /></a>
 <a href="mailto:lazregraed222@gmail.com"><img src="https://img.shields.io/badge/Email-0B0E13?style=for-the-badge&logo=gmail&logoColor=F4B740&labelColor=0B0E13" alt="Email" /></a>
 
 </div>
